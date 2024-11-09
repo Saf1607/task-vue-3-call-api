@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/4c296c37-ba2a-46a9-b21b-98907a7d3d1d)
+
+
+
+
 # vue-3-vuetify-login
 
 This template should help get you started developing with Vue 3 in Vite.
